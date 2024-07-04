@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @BHAGYAMUNI
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : My LinkedIn Profile : https://www.linkedin.com/in/bhagyasri-muni-242a0825b/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-BHAGYAMUNI/BHAGYAMUNI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @BHAGYAMUNI
+👀 Passionate about coding and turning ideas into reality through code.
+🌱 Currently diving deep into Web Development and always eager to learn more.
+💞️ Looking to collaborate on innovative projects that challenge my skills and contribute to the community.
+📫 Let's connect on LinkedIn and explore opportunities together!
+😄 Pronouns: She/Her
+⚡ Fun fact: I love exploring new tech and often spend weekends tinkering with gadgets!
