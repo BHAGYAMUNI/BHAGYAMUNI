@@ -22,7 +22,7 @@
 - 🌱 Currently exploring **Full-Stack Web Development**
 - 💬 Love learning modern frameworks, backend APIs, and DevOps
 - 💞️ Looking to **collaborate** on projects that create real-world impact
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📫 Connect with me on [LinkedIn]((https://www.linkedin.com/in/bhagyasri-muni/))
 - 😄 Pronouns: She/Her
 - ⚡ Fun Fact: I spend weekends tinkering with gadgets and discovering new tech!
 
