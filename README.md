@@ -1,79 +1,24 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/BHAGYAMUNI/BHAGYAMUNI/assets/your-banner-image-link" alt="Bhagyamuni Banner" />
-</p>
+# 💫 About Me:
+💡 About Me<br>👀 Passionate about coding, problem-solving, and innovation<br>🌱 Currently exploring Full-Stack Web Development<br>💬 Love learning modern frameworks, backend APIs, and DevOps<br>💞️ Looking to collaborate on projects that create real-world impact<br>📫 Connect with me on LinkedIn<br>😄 Pronouns: She/Her<br>⚡ Fun Fact: I spend weekends tinkering with gadgets and discovering new tech!<br>
 
-<h1 align="center">👋 Hi there, I’m Bhagyamuni!</h1>
 
-<p align="center">
-  🚀 Turning ideas into reality through code | 💻 Full-Stack Developer | 🌐 Tech Enthusiast <br>
-  <a href="(https://www.linkedin.com/in/bhagyasri-muni/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:bhagya06112005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.naukri.com/code360/profile/4f30ed8d-38c7-48ff-a982-b508ecd8523f" target="_blank"><img src="https://img.shields.io/badge/Naukri-Profile-orange?logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/bhagya0614ri/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/BHAGYAMUNI/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-yellow?logo=leetcode&logoColor=black" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhagyasri-muni/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhagya06112005@gmail.com) 
 
----
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BHAGYAMUNI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BHAGYAMUNI&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHAGYAMUNI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 💡 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BHAGYAMUNI&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 👀 Passionate about **coding**, **problem-solving**, and **innovation**
-- 🌱 Currently exploring **Full-Stack Web Development**
-- 💬 Love learning modern frameworks, backend APIs, and DevOps
-- 💞️ Looking to **collaborate** on projects that create real-world impact
-- 📫 Connect with me on [LinkedIn]((https://www.linkedin.com/in/bhagyasri-muni/))
-- 😄 Pronouns: She/Her
-- ⚡ Fun Fact: I spend weekends tinkering with gadgets and discovering new tech!
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BHAGYAMUNI&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=BHAGYAMUNI&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack & Tools
-
-#### 👩‍💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
-#### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-
-#### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-#### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BHAGYAMUNI&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAGYAMUNI&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 🌐 Explore My Profiles
-
-- 🧠 [GeeksforGeeks](https://www.geeksforgeeks.org/user/bhagya0614ri/)
-- 🧑‍💼 [Naukri Code360](https://www.naukri.com/code360/profile/4f30ed8d-38c7-48ff-a982-b508ecd8523f)
-- 🧩 [LeetCode](https://leetcode.com/u/BHAGYAMUNI/)
-- 🌍 [Portfolio Website](https://gentle-vacherin-68419b.netlify.app/https://your-portfolio.com)
-- 📬 Email: bhagya06112005@gmail.com
----
-
-> *"Talk is cheap. Show me the code." – Linus Torvalds*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
