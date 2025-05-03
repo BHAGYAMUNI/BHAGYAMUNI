@@ -9,6 +9,9 @@
   🚀 Turning ideas into reality through code | 💻 Full-Stack Developer | 🌐 Tech Enthusiast <br>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.naukri.com/code360/profile/4f30ed8d-38c7-48ff-a982-b508ecd8523f" target="_blank"><img src="https://img.shields.io/badge/Naukri-Profile-orange?logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/bhagya0614ri/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/BHAGYAMUNI/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-yellow?logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -64,13 +67,13 @@
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Explore My Profiles
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌍 [Portfolio Website](https://your-portfolio.com)
-- 📬 Email: your.email@example.com
-
+- 🧠 [GeeksforGeeks](https://www.geeksforgeeks.org/user/bhagya0614ri/)
+- 🧑‍💼 [Naukri Code360](https://www.naukri.com/code360/profile/4f30ed8d-38c7-48ff-a982-b508ecd8523f)
+- 🧩 [LeetCode](https://leetcode.com/u/BHAGYAMUNI/)
+- 🌍 [Portfolio Website](https://gentle-vacherin-68419b.netlify.app/https://your-portfolio.com)
+- 📬 Email: bhagya06112005@gmail.com
 ---
 
 > *"Talk is cheap. Show me the code." – Linus Torvalds*
-
