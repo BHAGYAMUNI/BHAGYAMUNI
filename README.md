@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/BHAGYAMUNI/BHAGYAMUNI/blob/main/github-header-image%20(1).png" alt="GitHub Banner" width="100%" />
+  <img src="https://github.com/BHAGYAMUNI/BHAGYAMUNI/blob/main/github-header-image%20(2).png" alt="GitHub Banner" width="100%" />
 </p>
 
 # 💫 About Me:
