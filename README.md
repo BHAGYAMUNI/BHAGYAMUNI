@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="C:\Users\HP\Downloads\github.jpg" alt="GitHub Banner" width="100%" />
+  <img src="github.jpg" alt="GitHub Banner" width="100%" />
 </p>
 
 # 💫 About Me:
